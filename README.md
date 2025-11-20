@@ -1,10 +1,10 @@
-# 📊 Dashboard Power BI – Análisis Espacial y Temporal de Patentes en México
+# Dashboard Power BI – Análisis Espacial y Temporal de Patentes en México
 
 Este repositorio contiene un dashboard desarrollado en **Power BI Desktop** para analizar el comportamiento de las patentes registradas en México, integrando visualizaciones temporales, categóricas y geoespaciales. El objetivo es identificar patrones por clasificación CPC, evolución anual y ubicación geográfica.
 
 ---
 
-## 🔧 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ### 1. Origen y Transformación de Datos
 - Limpieza y estructuración de datos mediante **Power Query**.
@@ -16,7 +16,7 @@ Este repositorio contiene un dashboard desarrollado en **Power BI Desktop** para
 
 ---
 
-## 📈 Funcionalidades del Dashboard
+## Funcionalidades del Dashboard
 
 - **Recuento total de patentes registradas.**
 - **Número de ciudades** con actividad de registro.
@@ -29,7 +29,7 @@ Este repositorio contiene un dashboard desarrollado en **Power BI Desktop** para
 
 ---
 
-## 🛠️ Tecnologías y Herramientas Utilizadas
+## Tecnologías y Herramientas Utilizadas
 
 - **Power BI Desktop**
 - **Power Query M**
